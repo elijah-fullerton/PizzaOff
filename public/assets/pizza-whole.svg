@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" fill="none" role="img" aria-labelledby="title">
+  <title id="title">A freshly baked, rosy-cheeked pizza</title>
+  <ellipse cx="100" cy="133" rx="72" ry="12" fill="#4a2d23" opacity=".08"/>
+  <g stroke="#4a2d23" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="100" cy="96" rx="79" ry="44" fill="#d8ddcc"/>
+    <path d="M29 74v14c0 52 142 52 142 0V74" fill="#d88b4c"/>
+    <ellipse cx="100" cy="75" rx="71" ry="43" fill="#eab167"/>
+    <ellipse cx="100" cy="75" rx="60" ry="34" fill="#f6c95f"/>
+    <path d="m100 41 1 68m-54-49 106 30m-13-41-81 51" stroke="#d4923f" stroke-width="2"/>
+    <ellipse cx="73" cy="60" rx="11" ry="8" fill="#b94736" stroke-width="2"/>
+    <ellipse cx="124" cy="65" rx="11" ry="8" fill="#b94736" stroke-width="2"/>
+    <ellipse cx="81" cy="95" rx="10" ry="7" fill="#b94736" stroke-width="2"/>
+    <ellipse cx="136" cy="85" rx="9" ry="6" fill="#b94736" stroke-width="2"/>
+    <path d="M94 60q-10-11 2-14 13 6 3 15m13 28q9-10 17-4-2 10-15 10m-49-17q-12 4-10-5 10-4 13 2" fill="#63816a" stroke-width="2"/>
+    <ellipse cx="78" cy="117" rx="7" ry="4" fill="#efaa91" stroke="none"/>
+    <ellipse cx="123" cy="117" rx="7" ry="4" fill="#efaa91" stroke="none"/>
+    <path d="m86 110 0 3m27-3v3m-17 4q5 6 10 0" stroke-width="2.5"/>
+  </g>
+  <path d="m26 34 3 7 7 3-7 3-3 7-3-7-7-3 7-3Zm148 10 2 5 5 2-5 2-2 5-2-5-5-2 5-2Z" fill="#e4a441"/>
+</svg>

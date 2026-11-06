@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none" role="img" aria-labelledby="title">
+  <title id="title">A happy pizza slice</title>
+  <g stroke="#4a2d23" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m61 122-5 17-11 2m45-19 5 17 12 2"/>
+    <path d="M43 77q-13 1-18-9m86 9q13 1 20-10"/>
+    <path d="M29 39q47-21 101 0L85 128q-7 14-15 0Z" fill="#d88b4c"/>
+    <path d="M36 42q44-17 87 0l-40 81q-5 9-9 0Z" fill="#f6c95f"/>
+    <path d="M26 39q-5-10 5-15 48-22 97 0 11 5 6 16-3 6-11 3-42-18-85 0-9 4-12-4Z" fill="#d88b4c"/>
+    <path d="M39 29q39-14 78 0" stroke="#f4bd7d" stroke-width="5"/>
+    <circle cx="57" cy="56" r="10" fill="#b94736" stroke-width="2.5"/>
+    <circle cx="99" cy="57" r="9" fill="#b94736" stroke-width="2.5"/>
+    <circle cx="79" cy="108" r="7" fill="#b94736" stroke-width="2"/>
+    <path d="M77 60q-12-4-8-12 11-1 13 9" fill="#63816a" stroke-width="2"/>
+    <ellipse cx="58" cy="86" rx="8" ry="5" fill="#efaa91" stroke="none"/>
+    <ellipse cx="101" cy="86" rx="8" ry="5" fill="#efaa91" stroke="none"/>
+    <path d="M63 76q3-5 6 0m20 0q3-5 6 0m-21 9q5 7 10 0" stroke-width="3"/>
+  </g>
+  <path d="m142 43 2 5 5 2-5 2-2 5-2-5-5-2 5-2Z" fill="#e4a441"/>
+</svg>
